@@ -1,0 +1,14 @@
+.loginChild {
+  position: absolute;
+  top: 167px;
+  left: 337px;
+  width: 607px;
+  height: 497.32px;
+}
+.login {
+  position: relative;
+  background-color: var(--color-darkslategray-200);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+}

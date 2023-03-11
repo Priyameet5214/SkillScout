@@ -1,0 +1,175 @@
+.analyticsChild,
+.analyticsItem {
+  position: absolute;
+  top: 299px;
+  left: 356px;
+  width: 354px;
+  height: 354px;
+}
+.analyticsItem {
+  left: 851px;
+}
+.about,
+.analytics1 {
+  position: absolute;
+  top: 19px;
+}
+.about {
+  left: 37px;
+  cursor: pointer;
+}
+.analytics1 {
+  left: 146px;
+  color: var(--color-darkslategray-200);
+}
+.certificate,
+.internship {
+  position: absolute;
+  top: 19px;
+  left: 287px;
+  cursor: pointer;
+}
+.certificate {
+  left: 440px;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  overflow: hidden;
+}
+.frameChild {
+  height: 62.84%;
+  width: 3.78%;
+  top: 17.46%;
+  right: 1.22%;
+  bottom: 19.7%;
+  left: 95%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameItem {
+  top: 8px;
+  left: 1132px;
+  border-radius: var(--br-lg);
+  width: 46px;
+  height: 46px;
+}
+.aboutParent,
+.topCertification,
+.topInternship {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.aboutParent {
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1280px;
+  height: 63px;
+  overflow: hidden;
+}
+.topCertification,
+.topInternship {
+  top: 226px;
+  left: 457px;
+  background: linear-gradient(#313131, #313131), #313131;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.topCertification {
+  left: 940px;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.categoryWrapper,
+.dashboardWrapper {
+  position: absolute;
+  top: 46px;
+  left: 62px;
+  width: 117px;
+  height: 24px;
+}
+.categoryWrapper {
+  top: 360px;
+  left: 72px;
+  width: 96px;
+}
+.frameInner,
+.groupParent {
+  position: absolute;
+  top: 609px;
+  left: 33px;
+}
+.groupParent {
+  top: 63px;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 241px;
+  height: 769px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.amazonWebServices,
+.ibmCertifiedTechnical {
+  position: absolute;
+  left: 48px;
+  font-weight: 500;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.amazonWebServices {
+  top: 161px;
+  background: linear-gradient(90deg, #fff 28.65%, rgba(255, 255, 255, 0) 47.4%);
+}
+.ibmCertifiedTechnical {
+  top: 196px;
+  background: linear-gradient(
+    90deg,
+    #fff 28.65%,
+    rgba(255, 255, 255, 0) 69.45%
+  );
+}
+.dataInternRole {
+  top: 230px;
+  background: linear-gradient(90deg, #fff 28.65%, rgba(255, 255, 255, 0) 47.4%);
+}
+.awsFundamentals,
+.dataInternRole,
+.metaCloudComputing,
+.seniorApplicationSupport {
+  position: absolute;
+  left: 48px;
+  font-weight: 500;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.seniorApplicationSupport {
+  top: 476px;
+  background: linear-gradient(
+    90deg,
+    #fff 28.65%,
+    rgba(255, 255, 255, 0) 80.98%
+  );
+}
+.awsFundamentals,
+.metaCloudComputing {
+  top: 511px;
+  background: linear-gradient(90deg, #fff 28.65%, rgba(255, 255, 255, 0));
+}
+.awsFundamentals {
+  top: 545px;
+}
+.analytics {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

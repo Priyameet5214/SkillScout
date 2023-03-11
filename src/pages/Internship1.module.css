@@ -1,0 +1,205 @@
+.about {
+  left: 37px;
+  cursor: pointer;
+}
+.about,
+.analytics,
+.internship1 {
+  position: absolute;
+  top: 19px;
+}
+.analytics {
+  left: 146px;
+  cursor: pointer;
+}
+.internship1 {
+  left: 287px;
+  color: var(--color-darkslategray-200);
+}
+.certificate {
+  position: absolute;
+  top: 19px;
+  left: 440px;
+  cursor: pointer;
+}
+.frameChild {
+  height: 62.84%;
+  width: 3.78%;
+  top: 17.46%;
+  right: 1.22%;
+  bottom: 19.7%;
+  left: 95%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.aboutParent,
+.frameChild,
+.frameItem {
+  position: absolute;
+  overflow: hidden;
+}
+.frameItem {
+  top: 8px;
+  left: 1132px;
+  border-radius: var(--br-lg);
+  width: 46px;
+  height: 46px;
+}
+.aboutParent {
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1280px;
+  height: 63px;
+  font-size: var(--font-size-base);
+}
+.frameInner,
+.microsoft {
+  position: absolute;
+  left: 26px;
+}
+.frameInner {
+  top: 28px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 224px;
+  height: 124px;
+  overflow: hidden;
+}
+.microsoft {
+  top: 164px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.loremIpsumDolor,
+.remote {
+  position: absolute;
+  top: 200px;
+  left: 26px;
+  display: inline-block;
+  width: 210px;
+}
+.remote {
+  top: 291px;
+  left: 40px;
+}
+.frameDiv {
+  position: absolute;
+  top: 293px;
+  left: 26px;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 13px;
+  overflow: hidden;
+}
+.category {
+  position: absolute;
+  top: 291px;
+  left: 179px;
+  display: inline-block;
+  width: 210px;
+}
+.frameChild1,
+.frameParent {
+  position: absolute;
+  top: 293px;
+  left: 165px;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 13px;
+  overflow: hidden;
+}
+.frameParent {
+  top: 168px;
+  left: 113px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  width: 277px;
+  height: 328px;
+  cursor: pointer;
+}
+.frameGroup,
+.logosawsIcon {
+  position: absolute;
+  top: 57px;
+  left: 82px;
+  width: 112px;
+  height: 66.94px;
+  overflow: hidden;
+}
+.frameGroup {
+  top: 168px;
+  left: 502px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  width: 277px;
+  height: 328px;
+  cursor: pointer;
+}
+.frameContainer,
+.frameIcon,
+.frameParent1 {
+  position: absolute;
+  top: 28px;
+  left: 26px;
+  border-radius: var(--br-xs);
+  width: 224px;
+  height: 124px;
+  overflow: hidden;
+}
+.frameContainer,
+.frameParent1 {
+  top: 168px;
+  left: 891px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  width: 277px;
+  height: 328px;
+  cursor: pointer;
+}
+.frameParent1 {
+  top: 575px;
+  left: 113px;
+}
+.frameParent2,
+.frameParent3,
+.uiladobeIcon {
+  position: absolute;
+  top: 58px;
+  left: 107px;
+  width: 63px;
+  height: 63px;
+  overflow: hidden;
+}
+.frameParent2,
+.frameParent3 {
+  top: 575px;
+  left: 502px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  width: 277px;
+  height: 328px;
+  cursor: pointer;
+}
+.frameParent3 {
+  left: 891px;
+}
+.logosmicrosoftIcon {
+  position: absolute;
+  top: 238px;
+  left: 160px;
+  width: 181.53px;
+  height: 39px;
+  overflow: hidden;
+}
+.internship {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,149 @@
+.about {
+  left: 37px;
+  cursor: pointer;
+}
+.about,
+.analytics,
+.internship1 {
+  position: absolute;
+  top: 19px;
+}
+.analytics {
+  left: 146px;
+  cursor: pointer;
+}
+.internship1 {
+  left: 287px;
+  color: var(--color-darkslategray-200);
+}
+.certificate {
+  position: absolute;
+  top: 19px;
+  left: 440px;
+  cursor: pointer;
+}
+.frameChild {
+  height: 62.84%;
+  width: 3.78%;
+  top: 17.46%;
+  right: 1.22%;
+  bottom: 19.7%;
+  left: 95%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.aboutParent,
+.frameChild,
+.frameItem {
+  position: absolute;
+  overflow: hidden;
+}
+.frameItem {
+  top: 8px;
+  left: 1132px;
+  border-radius: var(--br-lg);
+  width: 46px;
+  height: 46px;
+}
+.aboutParent {
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1280px;
+  height: 63px;
+  color: var(--color-white);
+}
+.associateProductManager {
+  position: absolute;
+  top: 200px;
+  left: 70px;
+  font-size: 25px;
+  font-weight: 600;
+}
+.hr,
+.mumbai {
+  position: absolute;
+  top: 195px;
+  left: 1037px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.hr {
+  left: 795px;
+}
+.ourInternsBridge {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.theInternshipIs {
+  margin: 0;
+}
+.ourInternsBridgeContainer {
+  position: absolute;
+  top: 296px;
+  left: 70px;
+  font-weight: 500;
+  display: inline-block;
+  width: 1115px;
+}
+.unsplashfpzzev0uqwaIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1102px;
+  height: 756px;
+  object-fit: cover;
+}
+.unsplashfpzzev0uqwaWrapper {
+  position: absolute;
+  top: 425px;
+  left: 70px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-100);
+  width: 1102px;
+  height: 451px;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 5.9%;
+  width: 3.13%;
+  top: 22.72%;
+  right: 20.78%;
+  bottom: 71.39%;
+  left: 76.09%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon,
+.logosgoogleIcon,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.groupIcon {
+  height: 6.61%;
+  width: 3.08%;
+  top: 22.54%;
+  right: 39.3%;
+  bottom: 70.85%;
+  left: 57.62%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.logosgoogleIcon {
+  top: 142px;
+  left: 70px;
+  width: 143.24px;
+  height: 47px;
+}
+.internship {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-royalblue);
+  font-family: var(--font-montserrat);
+}
